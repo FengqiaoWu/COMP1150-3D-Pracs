@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.42483288, g: 0.4566726, b: 0.48146516, a: 1}
+  m_IndirectSpecularColor: {r: 0.4248327, g: 0.45667213, b: 0.48146462, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -275,14 +275,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 38008235}
-  m_LocalRotation: {x: 0.07918757, y: 0.6227646, z: -0.0833968, w: 0.7739113}
-  m_LocalPosition: {x: 176.2, y: 175.2152, z: 77.382}
-  m_LocalScale: {x: 3.052, y: 3.2104, z: 1}
+  m_LocalRotation: {x: 0.08237479, y: 0.6524266, z: -0.08025015, w: 0.7490753}
+  m_LocalPosition: {x: 176.14, y: 174.81, z: 76.03}
+  m_LocalScale: {x: 5.5341916, y: 4.3141356, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 9
-  m_LocalEulerAnglesHint: {x: 13.088, y: 77.442, z: -1.792}
+  m_LocalEulerAnglesHint: {x: 13.187, y: 82.024, z: -0.75}
 --- !u!4 &51618194 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8997996947095583982, guid: c5efc39a8aaf6e64ea40e9ad573e9b47, type: 3}
@@ -877,7 +877,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!95 &997567320
 Animator:
   serializedVersion: 4
@@ -981,7 +981,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!81 &1008118710
 AudioListener:
   m_ObjectHideFlags: 0
@@ -1313,7 +1313,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9005220659476430823, guid: 2d3a85ecde41a8246a79669975912b74, type: 3}
       propertyPath: m_Layer
-      value: 0
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2d3a85ecde41a8246a79669975912b74, type: 3}
@@ -1545,7 +1545,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!81 &2015548265
 AudioListener:
   m_ObjectHideFlags: 0
